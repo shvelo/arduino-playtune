@@ -37,7 +37,7 @@
 #ifndef Playtune_h
 #define Playtune_h
 
-#include <arduino.h>
+#include <Arduino.h>
 
 class Playtune
 {
