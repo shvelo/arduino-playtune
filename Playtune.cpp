@@ -190,9 +190,9 @@
 #define DBUG 0       /* debugging? */
 #define TESLA_COIL 0 /* special Tesla Coil version? */
 
-#include <arduino.h>
+#include <Arduino.h>
 
-#include "playtune.h"
+#include "Playtune.h"
 
 #if defined(__AVR_ATmega8__)
 #define TCCR2A TCCR2
